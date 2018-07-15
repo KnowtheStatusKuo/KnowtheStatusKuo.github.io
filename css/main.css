@@ -44,5 +44,9 @@ ul.posts li {
 
 border    {
   margin: auto;
-  width: 50%;
+  max-width: 500px;
 }
+
+borderwide {
+    margin: auto;
+    max-width: 800px;
