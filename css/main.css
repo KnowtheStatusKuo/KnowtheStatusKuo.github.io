@@ -46,10 +46,12 @@ border    {
   margin: auto;
   max-width: 500px;
     width: 50%;
+  padding: 150px;
 }
 
 borderwide {
     margin: auto;
     max-width: 800px;
         width: 50%;
+      padding: 150px;
 }
