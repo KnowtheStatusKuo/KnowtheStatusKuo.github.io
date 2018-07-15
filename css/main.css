@@ -45,8 +45,11 @@ ul.posts li {
 border    {
   margin: auto;
   max-width: 500px;
+    width: 50%;
 }
 
 borderwide {
     margin: auto;
     max-width: 800px;
+        width: 50%;
+}
