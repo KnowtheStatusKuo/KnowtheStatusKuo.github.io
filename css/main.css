@@ -54,6 +54,4 @@ ul.posts li {
     list-style: none;
 }
 
-border    {
-  padding: 300px;
-}
+.border { padding:100p }
