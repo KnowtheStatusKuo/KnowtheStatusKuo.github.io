@@ -23,12 +23,9 @@ a:hover {
 
 dark {
     color: black !important;
-    text-decoration: none !important;
 }
 
-aa:hover {
-    text-decoration: underline;
-}
+
 
 #hidden {display:none;}
 #show:hover + #hidden{display:block;}
