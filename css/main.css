@@ -21,9 +21,9 @@ a:hover {
     text-decoration: underline;
 }
 
-aa {
-    text-decoration: none;
-    color: black;
+dark {
+    color: black !important;
+    text-decoration: none !important;
 }
 
 aa:hover {
