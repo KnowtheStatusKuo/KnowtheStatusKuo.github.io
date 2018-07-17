@@ -16,7 +16,17 @@ a {
     text-decoration: none;
     color: #999;
 }
+
 a:hover {
+    text-decoration: underline;
+}
+
+aa {
+    text-decoration: none;
+    color: black;
+}
+
+aa:hover {
     text-decoration: underline;
 }
 
